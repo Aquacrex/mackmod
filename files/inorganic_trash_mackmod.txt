@@ -42,6 +42,7 @@ inorganic_trash_mackmod
 	[BENDING_STRAIN_AT_YIELD:73]
 	[MAX_EDGE:10000]
 	[STATE_COLOR:ALL_SOLID:GRAY]
+	[ENTERS_BLOOD]
     [SYNDROME]
            [SYN_NAME:trash poisoning]
            [SYN_AFFECTED_CLASS:GENERAL_POISON]
