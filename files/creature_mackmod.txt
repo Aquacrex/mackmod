@@ -6,7 +6,7 @@ creature_domestic
 	[DESCRIPTION:A small, highly social mammalian carnivore.  It can be trained to obey commands.]
 	[NAME:trashdog:trashdogs:canine]
 	[CASTE_NAME:dog:dogs:canine]
-	[CREATURE_TILE:''][COLOR:6:0:0]
+	[CREATURE_TILE:'T'][COLOR:6:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:40][NATURAL]
 	[LARGE_ROAMING]
