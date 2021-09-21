@@ -3,7 +3,7 @@ creature_domestic
 [OBJECT:CREATURE]
 
 [CREATURE:TRASHDOG]
-	[DESCRIPTION:A small, highly social, (and trashy) mammalian carnivoremade out of trash.  It can be trained to obey commands.]
+	[DESCRIPTION:A small, highly social, (and trashy) mammalian carnivore made out of trash.  It can be trained to obey commands.]
 	[NAME:trashdog:trashdogs:trash canine]
 	[CASTE_NAME:trashdog:trashdogs:trash canine]
 	[CREATURE_TILE:'T'][COLOR:6:0:0]
