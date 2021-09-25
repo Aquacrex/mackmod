@@ -4,8 +4,8 @@ creature_domestic
 
 [CREATURE:TRASHDOG]
 	[DESCRIPTION:A small, highly social, (and trashy) mammalian carnivore made out of trash.  It can be trained to obey commands.]
-	[NAME:trashdog:trashdogs:trash canine]
-	[CASTE_NAME:trashdog:trashdogs:trash canine]
+	[NAME:trashdog:trashdogs:trashy canine]
+	[CASTE_NAME:trashdog:trashdogs:trashy canine]
 	[CREATURE_TILE:'T'][COLOR:6:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:40][NATURAL]
@@ -135,8 +135,8 @@ creature_domestic
 
 [CREATURE:TRASHDOG_COMPACT]
 	[DESCRIPTION:A small, highly social, (and trashy) mammalian carnivore made out of compact trash.  It can be trained to obey commands.]
-	[NAME:compact trashdog:compact trashdogs:compact trash canine]
-	[CASTE_NAME:compact trashdog:compact trashdogs:compact trash canine]
+	[NAME:compact trashdog:compact trashdogs:compact trashy canine]
+	[CASTE_NAME:compact trashdog:compact trashdogs:compact trashy canine]
 	[CREATURE_TILE:'T'][COLOR:6:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:40][NATURAL]
