@@ -1,6 +1,8 @@
 # mackmod
 #### A dwarf fortress mod for the twitch streamer Trashmack
 
+##### Please ask all questions in the ![discord](https://discord.gg/a4e5KFsXGC)
+
 >It is focused on two things:
 >>Tea
 >>and Trash
